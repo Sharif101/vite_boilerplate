@@ -1,7 +1,6 @@
-import classes from "./Home.module.css";
 const Home = () => {
   return (
-    <div className={classes.section}>
+    <div className="text-3xl font-bold underline">
       <p>home</p>
     </div>
   );
